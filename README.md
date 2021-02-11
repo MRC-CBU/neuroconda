@@ -1,3 +1,5 @@
+# MRC CBU FORK - use the [main repo](https://github.com/jooh/neuroconda) if you are based elsewhere
+
 A Conda environment for neuroscience. This is a very inclusive environment that covers
 pretty much all neuroimaging-related packages you might want to use. Please let us know
 if you want to see any additional packages.
